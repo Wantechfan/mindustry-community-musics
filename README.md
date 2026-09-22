@@ -18,7 +18,7 @@ Request your music at the discord server above.
 10. game8 = Funk Universo (by Irokz)
 11. game9 = Flamewall (by Camelia, requested by @misterpororos_30670)
 12. boss1 = Paranoia (by Kentenshi)
-13. boss2 = Rush E (by Andrew Wrangell)
+13. boss2 = Mick Gordon (Doom OST, unknown creator, requested by @misterpororos_30670)
 14. fine = Cloud 9 (by Itro & Tobu)
 15. editor = Aria Math (by C418)
 
