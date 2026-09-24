@@ -1,6 +1,6 @@
 ![icon](icon.png)
 
-# Cool Musics
+# Community Musics
 [![Badge Discord]][Discord]
 
 Request your music at the discord server above.
